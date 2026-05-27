@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm cucu0628</h1>
-<h3 align="center">A IT student from Hungary</h3>
+<h3 align="center">An IT student from Hungary</h3>
 
 - ⚡ Fun fact **I am Pro Linux user**
 
