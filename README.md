@@ -1,7 +1,7 @@
 ```text
             .--.                     cucu0628@github
            |o_o |                    ----------------
-           |:_/ |                    OS: Windows 10 / Arch Linux
+           |:_/ |                    OS: Arch Linux / Win 10
           //   \ \                   Host: GitHub
          (|     | )                  Kernel: Developer
         /'\_   _/`\                  Shell: Bash
