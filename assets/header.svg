@@ -33,7 +33,7 @@
 
     <text x="72" y="157" fill="#f5e8d8" font-size="72" font-weight="700" letter-spacing="-5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">cucu0628</text>
     <rect x="74" y="176" width="50" height="4" rx="2" fill="#eab69b"/>
-    <text x="74" y="214" fill="#d5c1b9" font-size="19" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">building thoughtful things for the desktop</text>
+    <text x="74" y="214" fill="#d5c1b9" font-size="19" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">making Linux desktops feel like home</text>
 
     <rect x="790" y="75" width="305" height="152" rx="10" fill="#1b1b26" stroke="#deb89e" stroke-opacity=".45"/>
     <path d="M790 108 H1095" stroke="#deb89e" stroke-opacity=".25"/>
@@ -42,10 +42,10 @@
     <circle cx="842" cy="92" r="4" fill="#a6baad"/>
     <text x="875" y="96" fill="#b8aaa8" font-size="12" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">workspace</text>
     <text x="814" y="137" fill="#eab69b" font-size="14" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">01</text>
-    <text x="851" y="137" fill="#e8ddcf" font-size="14" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">desktop shells</text>
+    <text x="851" y="137" fill="#e8ddcf" font-size="14" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">vellum shell</text>
     <text x="814" y="168" fill="#c5a9ca" font-size="14" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">02</text>
-    <text x="851" y="168" fill="#e8ddcf" font-size="14" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">useful tools</text>
+    <text x="851" y="168" fill="#e8ddcf" font-size="14" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">hibiki</text>
     <text x="814" y="199" fill="#a6baad" font-size="14" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">03</text>
-    <text x="851" y="199" fill="#e8ddcf" font-size="14" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">small experiments</text>
+    <text x="851" y="199" fill="#e8ddcf" font-size="14" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">deskmate</text>
   </g>
 </svg>

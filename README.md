@@ -1,28 +1,43 @@
 <p align="center">
-  <img src="assets/header.svg" alt="cucu0628 — building thoughtful things for the desktop" width="100%">
+  <img src="assets/header.svg" alt="cucu0628 — making Linux desktops feel like home" width="100%">
 </p>
 
-<p align="center">
-  I build Linux desktop experiences, useful tools, and the occasional playful experiment.<br>
-  Lately, I've been exploring what a desktop can feel like with <strong>Quickshell</strong>, <strong>QML</strong>, and <strong>Hyprland</strong>.
-</p>
+### Hi, I'm cucu 👋
 
-<p align="center">
-  <a href="https://github.com/cucu0628?tab=repositories">Explore my projects</a> ·
-  <a href="https://github.com/cucu0628/vellum_shell">See what I'm building now</a>
-</p>
+I like making Linux feel personal — from the shell around my windows to the music player inside them. I spend most of my time building with **QML, Qt, Rust, and Hyprland**.
 
-## Selected projects
+<br>
 
-| Project | A little about it |
-| :-- | :-- |
-| **[Vellum Shell](https://github.com/cucu0628/vellum_shell)** | An ink-inspired desktop shell for Hyprland, with a launcher, notifications, media dashboard, and live appearance controls. |
-| **[Hibiki](https://github.com/cucu0628/Hibiki)** | A Qt 6 music player for Linux with a local library, playlist downloads, and MPRIS integration. |
-| **[Deskmate](https://github.com/cucu0628/omarchy-deskmate)** | An animated Omarchy desktop companion that wanders around, reacts to commands, and can travel between monitors. |
-| **[Varnished Horizon](https://github.com/cucu0628/varnished-horizon)** | A warm, painterly dark theme for Omarchy. |
+<sub>01 / CURRENTLY BUILDING</sub>
 
-## Things I work with
+## [Vellum Shell](https://github.com/cucu0628/vellum_shell)
 
-`QML` · `C++ / Qt` · `Rust` · `Python` · `TypeScript` · `Bash` · `Linux`
+An ink-inspired desktop shell for **Hyprland + Quickshell**. It brings the bar, launcher, notifications, media, settings, and appearance controls together in one place.
 
-<p align="center"><sub>Usually somewhere between a terminal, a music player, and another desktop tweak.</sub></p>
+<a href="https://github.com/cucu0628/vellum_shell">
+  <img src="assets/vellum-overview.png" alt="Vellum Shell dashboard over a purple lakeside wallpaper" width="100%">
+</a>
+
+<sub>QML · Rust · Hyprland</sub> &nbsp;·&nbsp; [Explore the project →](https://github.com/cucu0628/vellum_shell)
+
+<br>
+
+<sub>02 / OTHER THINGS I'VE MADE</sub>
+
+## More from my workspace
+
+### 🎧 [Hibiki](https://github.com/cucu0628/Hibiki)
+
+A Qt 6 music player with a local library and MPRIS support. It picks up Vellum Shell's theme when they're running together.
+
+### ✨ [Deskmate](https://github.com/cucu0628/omarchy-deskmate)
+
+A tiny animated companion for Omarchy that wanders, can react to failed commands, and can be dragged between monitors.
+
+### 🌄 [Varnished Horizon](https://github.com/cucu0628/varnished-horizon)
+
+A warm, painterly dark theme for Omarchy, inspired by landscape paintings.
+
+<br>
+
+<p align="center"><a href="https://github.com/cucu0628?tab=repositories">See all repositories →</a></p>
